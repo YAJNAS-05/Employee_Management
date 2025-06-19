@@ -1,0 +1,30 @@
+# Compiled object files
+*.o
+
+# Compiled binary files
+*.out
+*.exe
+
+# Backup files
+*~
+
+# Logs
+*.log
+
+# Core dumps
+core
+
+# Build directories
+build/
+bin/
+obj/
+
+# Temporary files
+*.tmp
+*.swp
+.DS_Store
+
+# VS Code settings (if using)
+.vscode/
+
+# Makefile-generated fil
